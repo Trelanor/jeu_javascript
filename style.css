@@ -1,0 +1,38 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+	background: linear-gradient(to left, black, grey);
+}
+h1{
+	font-family: cursive;
+	text-decoration: underline;
+}
+.container{
+	text-align: center;
+	width: 500px;
+	margin: auto;
+	border: purple solid 2px;
+	margin-top: 25%;
+	background: linear-gradient(to top, white, grey);
+	border-radius: 120px 0px 120px 0px;
+	padding: 20px;
+	box-shadow: 2px 2px 5px black;
+}
+.jeu{
+	width: 400px;
+	height: 60px;
+
+}
+#inp{
+	border: black solid 2px;
+	width: 150px;
+	margin-left: 50px;
+	margin-top: 20px;
+	padding: 5px;
+}
+#button{
+	border: black solid 2px;
+	padding: 5px;
+}
